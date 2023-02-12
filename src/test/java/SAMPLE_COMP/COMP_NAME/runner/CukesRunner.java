@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         glue = "SAMPLE_COMP/COMP_NAME/step_def" ,
         dryRun = false,
         publish = true,
-        tags = "@UI"
+        tags = ""
 )
 public class CukesRunner {
 
